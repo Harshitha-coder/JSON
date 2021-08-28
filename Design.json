@@ -1,0 +1,22 @@
+{
+		 	"mobiles":[
+		 	{
+		 		"Name":"Vivo",
+			    "Color":"Blue",
+			    "Price":14000,
+			    "imgsrc":"https://live.staticflickr.com/4619/28224302009_5c4ce3d5e9_n.jpg", 
+		 	},
+		 	{
+		 		"Name":"OPPO",
+			    "Color":"Red",
+			    "Price":10000,
+			    "imgsrc":"https://m.media-amazon.com/images/I/71geVdy6-OS._AC_UY218_.jpg",  
+		 	},
+		 	{
+		 		"Name":"Realme",
+			    "Color":"Purpl",
+			    "Price":13000,  
+			    "imgsrc":"https://m.media-amazon.com/images/I/618UBhFmaQS._AC_UY218_.jpg" 
+		 	}
+		 	]
+ }
